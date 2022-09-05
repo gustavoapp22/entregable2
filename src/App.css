@@ -1,0 +1,59 @@
+body{
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  background-image: url(https://elviajerofeliz.com/wp-content/uploads/2015/09/paisajes-de-Canada.jpg);
+  background-repeat: no-repeat;
+}
+
+.App{
+  text-align: center;
+  width: fit-content;
+  padding: 20px;
+  box-shadow: 2px 2px 2px rgba(64, 16, 16, 0.2);
+  margin: 0 auto;
+  border-radius: 8px;
+  background-color: antiquewhite;
+ box-shadow: 9px 8px 40px 8px;
+ position: sticky;
+
+ 
+}
+.img{
+width: 150px;
+height: 150px;
+
+}
+.violet{
+  color: darkorchid;
+  transition: 1s all ease;
+}
+.violet:hover{
+  color: aqua;
+}
+h5{
+  color: darkorchid;
+  transition: 1s all ease;
+}
+h5:hover{
+  color: aqua;
+}
+
+h1{
+  color: darkorchid;
+  transition: 1s all ease;
+}
+h1:hover{
+  color: aqua;
+}
+button{
+  background-color: darkorchid;
+  color: azure;
+  padding: 10px;
+  border: none;
+  border-radius: 7% ;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  border-radius: 10px;
+  transition: 1s all ease;
+}
+button:hover{
+  background-color: aqua;
+}
